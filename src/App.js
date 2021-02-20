@@ -1,13 +1,13 @@
-import React, { Component } from 'react';
+import React from 'react';
 import Bubbles from './Bubbles';
 
 
 
 function App() {
   return (
-    <main className="App">
-
-    </main>
+    <Bubbles
+      numberOfBubbles={75}
+    />
   );
 }
 

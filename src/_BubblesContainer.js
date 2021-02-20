@@ -5,7 +5,7 @@ export default function BubblesContainer(props) {
     <div className='bubbles-container'>
       <svg
         className='bubbles'
-        viewBox='0 0 701 1024'
+        viewBox='0 0 700 1024'
         style={{ 'overflow': 'visible' }}
       >
         <g className='bubbles-small' strokeWidth='7'>
